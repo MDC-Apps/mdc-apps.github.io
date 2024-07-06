@@ -265,8 +265,8 @@
     ],
     "uniqCompNum": 25,
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/mdc-875f9a-128x128_1.png",
-    "mbrsiteDomain": "8dzghjy8a7",
+    "favicon": false,
+    "mbrsiteDomain": "dhzv5ijilk",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -276,7 +276,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": true,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='privacy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false
