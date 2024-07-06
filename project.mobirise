@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MDC Apps",
-    "currentPage": "index.html",
+    "currentPage": "privacy.html",
     "ai": {
       "imageSearchQuery": "innovation"
     },
@@ -261,8 +261,8 @@
     "uniqCompNum": 8,
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/mdc-875f9a-128x128_1.png",
-    "mbrsiteDomain": "nsuruuzxfd",
-    "usedWebp": false,
+    "mbrsiteDomain": "8dzghjy8a7",
+    "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -274,21 +274,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#ffffff",
-      "colorButton": "#758E4F",
-      "rejectColor": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacityOverlay": "0",
-      "bgOpacity": "100",
-      "text": "We use cookies to give you the best experience as specified in the <a href='privacy.html'>cookie policy</a>. Rejecting cookies may make some features unavailable.",
-      "textButton": "ACCEPT",
-      "rejectText": "REJECT"
-    },
-    "cookiesAlertType": "2"
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
@@ -2186,7 +2172,7 @@
           },
           "_name": "article12",
           "_sourceTheme": "startm5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article12\" group=\"Article\">    \n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#f7f7f7\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4 mt-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                <b><br></b><br><b>Privacy</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">The storytelling magic of photos\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Your privacy is important to us. This website does not store any of your information.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article12\" group=\"Article\">    \n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#f7f7f7\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4 mt-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                <b><br></b><br><b>Privacy</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">The storytelling magic of photos\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Your privacy is of the outmost importance to us.<br><br>This website does not knowingly use any analytics or cookies, and does not collect or store any of your information.<br><br>We abide by Mobirise® 's <a href=\"https://mobirise.com/terms.html\" class=\"text-primary\" target=\"_blank\">Terms of Service</a>&nbsp;for building this website, therefore by consulting this website you may be also be subjected to their <a href=\"https://mobirise.com/privacy.html\" class=\"text-primary\" target=\"_blank\">Privacy Policy</a> as far as your browsing sessions.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "uhJTrYfGqd",
           "_protectedParams": [],
           "_global": false,
