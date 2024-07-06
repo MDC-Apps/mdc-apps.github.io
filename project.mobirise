@@ -31,7 +31,7 @@
         "isRoundedButtons": true,
         "isLargeButtons": false,
         "isGhostButtonBorder": true,
-        "underlinedLinks": false,
+        "underlinedLinks": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
