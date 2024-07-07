@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MDC Apps",
-    "currentPage": "app1.html",
+    "currentPage": "index.html",
     "ai": {
       "imageSearchQuery": "innovation"
     },
@@ -267,7 +267,7 @@
     "uniqCompNum": 65,
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "cis9vhaug2",
+    "mbrsiteDomain": "jd8pvqmjy7",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
