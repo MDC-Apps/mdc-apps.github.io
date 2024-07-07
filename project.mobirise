@@ -267,7 +267,7 @@
     "uniqCompNum": 67,
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "nlvztqcicw",
+    "mbrsiteDomain": "mhshysvgyd",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -276,7 +276,8 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
     "screenshot": "screenshot.png",
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
